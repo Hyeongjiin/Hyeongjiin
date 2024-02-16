@@ -26,6 +26,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lipfolnp)](https://solved.ac/lipfolnp/)
 </div>
 
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyeongjiin&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=a5a9b0&height=40&section=footer&text=&fontSize=0" width="100%"/>
